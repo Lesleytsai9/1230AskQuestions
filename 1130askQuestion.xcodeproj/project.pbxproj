@@ -15,6 +15,7 @@
 		8EEC4D8223B9DC7A00AB240E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEC4D8023B9DC7A00AB240E /* LaunchScreen.storyboard */; };
 		8EEC4D8D23B9DC7A00AB240E /* _130askQuestionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEC4D8C23B9DC7A00AB240E /* _130askQuestionTests.swift */; };
 		8EEC4D9823B9DC7B00AB240E /* _130askQuestionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEC4D9723B9DC7B00AB240E /* _130askQuestionUITests.swift */; };
+		8EEC4DA823B9DF9E00AB240E /* qnas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEC4DA723B9DF9E00AB240E /* qnas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8EEC4D9323B9DC7B00AB240E /* 1130askQuestionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1130askQuestionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EEC4D9723B9DC7B00AB240E /* _130askQuestionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _130askQuestionUITests.swift; sourceTree = "<group>"; };
 		8EEC4D9923B9DC7B00AB240E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEC4DA723B9DF9E00AB240E /* qnas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qnas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8EEC4D7723B9DC7A00AB240E /* SceneDelegate.swift */,
 				8EEC4D7923B9DC7A00AB240E /* ViewController.swift */,
 				8EEC4D7B23B9DC7A00AB240E /* Main.storyboard */,
+				8EEC4DA723B9DF9E00AB240E /* qnas.swift */,
 				8EEC4D7E23B9DC7A00AB240E /* Assets.xcassets */,
 				8EEC4D8023B9DC7A00AB240E /* LaunchScreen.storyboard */,
 				8EEC4D8323B9DC7A00AB240E /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EEC4DA823B9DF9E00AB240E /* qnas.swift in Sources */,
 				8EEC4D7A23B9DC7A00AB240E /* ViewController.swift in Sources */,
 				8EEC4D7623B9DC7900AB240E /* AppDelegate.swift in Sources */,
 				8EEC4D7823B9DC7A00AB240E /* SceneDelegate.swift in Sources */,
